@@ -1,6 +1,6 @@
 # project-man
 a set of shell scripts to pull and push repos on startup in order to make development across multiple OSes seamless
-Sure, here’s a README that details the setup and usage of the shell scripts for both Windows and Linux.
+
 
 ---
 ## Table of Contents
